@@ -27,7 +27,7 @@ export default function Services(): any {
                         EXPERIÊNCIA
                     </p>
                     <h1 className="text-2xl w-full flex flex-col lg:items-start items-center py-1 after:content-[''] after:bg-orange after:my-2 after:h-1 after:rounded-full after:w-16 after:block font-bold">
-                        Meus serviços
+                        Minha Experiência
                     </h1>
                 </div>
                 <div data-aos="zoom-in-right" className="lg:w-3/5 text-white font-Nunito">

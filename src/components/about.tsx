@@ -1,4 +1,4 @@
-import Resume from '../assets/files/Resume-Olawale-Olafisoye.pdf';
+import Resume from '../assets/files/Resume-Olawale-Olafisoye2.pdf';
 
 export default function About(): any {
     return (
@@ -19,7 +19,7 @@ export default function About(): any {
                         Também gerenciei negócios de transporte que trabalham para o Guinness.
                     </p><br /><br />
 
-                    <a href={Resume} download={"Resume-Olawale-Olafisoye"} className="border border-orange px-7 py-3 hover:bg-orange duration-300 ease-in-out rounded-full">
+                    <a href={Resume} download={"Resume-Olawale-Olafisoye2"} className="border border-orange px-7 py-3 hover:bg-orange duration-300 ease-in-out rounded-full">
                         Baixar Currículo
                     </a>
                 </div>
