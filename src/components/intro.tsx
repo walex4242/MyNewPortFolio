@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import { FaLinkedin, FaGithub } from 'react-icons/fa';
+import { FaLinkedin, FaGithub, FaWhatsapp } from 'react-icons/fa';
 
 
 export default function Intro(): any {
@@ -9,6 +9,12 @@ export default function Intro(): any {
             socialName: "Github",
             icon: <FaGithub />,
             socialLink: "https://github.com/walex4242",
+        },
+        {
+            id: 2,
+            socialName: "Whatsapp",
+            icon: <FaWhatsapp />,
+            socialLink: "https://wa.me/5551982856945",
         },
 
         {
@@ -43,7 +49,7 @@ export default function Intro(): any {
                     Compre-me um café
                 </button>
             </div>
-            <div className="lg:w-2/5 w-full bg-about object-cover h-80 bg-center bg-no-repeat"></div>
+            <div className="lg:w-2/5 w-full  bg-about object-cover h-80 bg-center bg-no-repeat"></div>
         </div>
     )
 }
