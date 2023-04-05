@@ -43,7 +43,7 @@ export default function Intro(): any {
                     Eu sou Olawale Rasaki Olafisoye
                 </h1>
                 <p className="text-white lg:mx-4 mx-2 py-2 font-Nunito">
-                    Frontend Developer |  React JS | React Native | TailwindCSS
+                    Desenvolvedor Frontend |  React JS | React Native | TailwindCSS
                 </p>
                 <button className="border border-orange rounded-full px-6 bg-transparent hover:bg-orange ease-in-out duration-300 py-3 my-3 text-white font-Lato lg:mx-4 mx-2">
                     Compre-me um café
