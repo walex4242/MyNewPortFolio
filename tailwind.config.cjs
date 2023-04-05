@@ -21,7 +21,7 @@ module.exports = {
         Nunito: ["Nunito"],
       },
       backgroundImage: {
-        about: 'url("/src/assets/images/mypics.jpg")',
+        /*about: 'url("/src/assets/images/mypics.jpg")',*/
         other: 'url("/src/assets/images/mypics2.jpg")',
       },
     },

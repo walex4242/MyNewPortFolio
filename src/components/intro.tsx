@@ -49,7 +49,7 @@ export default function Intro(): any {
                     Compre-me um café
                 </button>
             </div>
-            <div className="lg:w-2/5 w-full  bg-about object-cover h-80 bg-center bg-no-repeat"></div>
+            <div className="lg:w-2/5 w-full h-80  bg-about object-cover  bg-center bg-no-repeat"></div>
         </div>
     )
 }
